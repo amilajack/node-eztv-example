@@ -1,0 +1,18 @@
+{
+  "name": "node-eztv-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:amilajack/node-eztv-example.git",
+  "author": "Amila Welihinda <amilajack@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eztv": "^1.0.0-0"
+  },
+  "devDependencies": {
+    "esm": "^3.0.84",
+    "node-eztv": "^0.0.1"
+  },
+  "scripts": {
+    "start": "node -r esm index.mjs"
+  }
+}
