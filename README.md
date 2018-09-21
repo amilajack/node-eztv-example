@@ -1,6 +1,6 @@
 node-eztv-example
 =================
-[![Build Status](https://travis-ci.com/amilajack/node-eztv-example.svg?branch=master)](https://travis-ci.com/amilajack/node-eztv-example)
+[![Build Status](https://travis-ci.com/amilajack/node-eztv-example.svg?branch=master)](https://travis-ci.com/amilajack/node-eztv-example) [![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/node-eztv-example.svg)](https://greenkeeper.io/)
 
 ## Setup
 ```bash
