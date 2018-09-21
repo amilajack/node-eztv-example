@@ -13,6 +13,7 @@
     "node-eztv": "^0.0.1"
   },
   "scripts": {
-    "start": "node -r esm index.mjs"
+    "start": "node -r esm index.mjs",
+    "test": "yarn start"
   }
 }

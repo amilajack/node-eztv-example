@@ -1,5 +1,6 @@
 node-eztv-example
 =================
+[![Build Status](https://travis-ci.com/amilajack/node-eztv-example.svg?branch=master)](https://travis-ci.com/amilajack/node-eztv-example)
 
 ## Setup
 ```bash
