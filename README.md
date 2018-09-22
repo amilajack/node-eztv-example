@@ -2,6 +2,9 @@ node-eztv-example
 =================
 [![Build Status](https://travis-ci.com/amilajack/node-eztv-example.svg?branch=master)](https://travis-ci.com/amilajack/node-eztv-example)
 
+
+A clonable and runnable example repo for the [eztv npm package](https://github.com/moesalih/node-eztv)
+
 ## Setup
 ```bash
 git clone https://github.com/amilajack/node-eztv-example
